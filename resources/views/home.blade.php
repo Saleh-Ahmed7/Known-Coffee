@@ -12,101 +12,107 @@
         }
 
         img {
-            width: 1000px;
+            width: 100px;
             margin: 0px;
             padding: 0px;
             margin-left: -1rem;
             margin-top: -9rem;
         }
+        .img1{
+            width: 102%;
+            margin-top: -45rem;
+        }
+        .img2{
+            margin-top: 2rem;
+            margin-left: 29rem;
+            width: 45%;
+        }
+        .h1{
+            margin-left: 63rem;
+            font-size: 33px;
+        }
+        .img3{
+            margin-top: inherit;
+            margin-left: 5rem;
+            width: 32%;
+        }
+        .p1{
+            margin-top: -5rem;
+            margin-left: 8rem;
+            font-size: 58px;
+        }
+        .img4{
+            margin-top: -36rem;
+            margin-left: 57rem;
+            width: 40%;
+            margin-bottom: 8rem;
+        }
+        .p2{
+            margin-left: 67rem;
+            font-size: 58px;
+            margin-top: -11rem;
+        }
+        .img5{
+            margin-top: -13rem;
+            width: 100%;
+            margin-left: -1rem;
+        }
+        .img6{
+            width: 27%;
+            margin-left: 6rem;
+            margin-top: -14rem;
+        }
+        .p3{
+            margin-left: 12rem;
+            font-size: 45px;
+            margin-top: 0rem;
+        }
+        .img7{
+            width: 32%;
+            margin-left: 62rem;
+            margin-top: -30rem;
+        }
+        .p4{
+            margin-left: 75rem;
+            margin-top: -2rem;
+            font-size: 46px;
+        }
     </style>
 </head>
 
 <body>
-    <img src="coffee.png" alt="" style="
-    width: 102%;
-    margin-top: -45rem">
+    <img class="img1" src="coffee.png" alt="">
 
-    <img src="knownn.png" alt="" style="
-    margin-top: 2rem;
-    margin-left: 33rem;
-    width: 45%
+    <img class="img2" src="knownn.png" alt="">
 
-    ">
+    <h1 class="h1">
+    نقدم لكم القهوة المختصة والمزيد بكل حب
+    </h1>
 
-    <h1 style="
-    margin-left: 63rem;
-    font-size: 33px;
-">نقدم لكم القهوة المختصة والمزيد بكل حب</h1>
+    <img class="img3" src="t1.png" alt="">
 
-    <img src="t1.png" alt="" style="
+    <p class="p1">
+    المشروبات الباردة
+    </p>
 
-    margin-top: inherit;
-    margin-left: 5rem;
-    width: 32%;
-    ">
-    <p style="
-
-    margin-top: -5rem;
-    margin-left: 8rem;
-    font-size: 58px;
-
-">
-المشروبات الباردة
-</p>
-
-    <img src="t2.png" alt="" style="
-
-   margin-top: -36rem;
-   margin-left: 57rem;
-   width: 40%;
-   margin-bottom: 8rem;
+    <img class="img4" src="t2.png" alt="">
 
 
-   ">
-   <p style="
-    margin-left: 67rem;
-    font-size: 58px;
-    margin-top: -11rem;">
+   <p class="p2">
      المشروبات الساخنة
    </p>
 
-    <img src="t3.png" alt="" style="
-    margin-top: -13rem;
-    width: 100%;
-    margin-left: -1rem;
+    <img class="img5" src="t3.png" alt="">
 
-    ">
+    <img class="img6" src="t4.png" alt="">
 
-    <img src="t4.png" alt="" style="
-
-   width: 27%;
-   margin-left: 6rem;
-   margin-top: -14rem;
-
-
-    ">
-<p style="
-    margin-left: 12rem;
-    font-size: 45px;
-    margin-top: 0rem;
-">
+    <p class="p3">
     وجبات الافطار
     </p>
 
-    <img src="t5.png" alt="" style="
+    <img class="img7" src="t5.png" alt="">
 
-
-   width: 32%;
-   margin-left: 62rem;
-   margin-top: -30rem;
-    ">
-    <p style="
-    margin-left: 75rem;
-    margin-top: -2rem;
-    font-size: 46px;
-">الحلى </p>
-
-
+    <p class="p4">الحلى </p>
 </body>
 </html>
 
