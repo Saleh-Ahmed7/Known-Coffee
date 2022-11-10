@@ -96,7 +96,7 @@
             <p class="p1">
             المشروبات الباردة
             </p>
-
+            
             <img class="img4" src="t2.png" alt="">
 
 

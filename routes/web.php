@@ -17,3 +17,5 @@ use Illuminate\Support\Facades\Route;
 //     return view('home');
 // });
 Route::view('/' , 'home');
+Route::view('prodect','prodect');
+
