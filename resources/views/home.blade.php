@@ -7,7 +7,17 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>الصفحة الرئيسية</title>
-        <style>
+        <!-- CSS only -->
+<!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">        <style>
+#header-image {
+    background-repeat: no-repeat;
+    background-image:url("backgruond.png");
+}
+
+
+
+
             body {
                 background-image: url("backgruond.png");
             }
@@ -29,7 +39,7 @@
                 width: 45%;
             }
             .h1{
-                margin-left: 63rem;
+                margin-left: 70rem;
                 font-size: 33px;
             }
             .img3{
@@ -43,19 +53,19 @@
                 font-size: 58px;
             }
             .img4{
-                margin-top: -36rem;
-                margin-left: 57rem;
+                margin-top: -48rem;
+                margin-left: 72rem;
                 width: 40%;
                 margin-bottom: 8rem;
             }
             .p2{
-                margin-left: 67rem;
+                margin-left: 85rem;
                 font-size: 58px;
                 margin-top: -11rem;
             }
             .img5{
-                margin-top: -13rem;
-                width: 100%;
+                margin-top: -11rem;
+                width: 95%;
                 margin-left: -1rem;
             }
             .img6{
@@ -70,12 +80,12 @@
             }
             .img7{
                 width: 32%;
-                margin-left: 62rem;
-                margin-top: -30rem;
+                margin-left: 73rem;
+                margin-top: -40rem;
             }
             .p4{
-                margin-left: 75rem;
-                margin-top: -2rem;
+                margin-left: 87rem;
+                margin-top: -3rem;
                 font-size: 46px;
             }
         </style>
@@ -83,6 +93,8 @@
     </head>
 
         <body>
+                @include("d")
+
             <img class="img1" src="coffee.png" alt="">
 
             <img class="img2" src="knownn.png" alt="">
@@ -96,7 +108,7 @@
             <p class="p1">
             المشروبات الباردة
             </p>
-            
+
             <img class="img4" src="t2.png" alt="">
 
 
@@ -115,6 +127,9 @@
             <img class="img7" src="t5.png" alt="">
 
              <p class="p4">الحلى </p>
+
+
+
         </body>
 </html>
 

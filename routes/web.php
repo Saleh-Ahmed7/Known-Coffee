@@ -17,5 +17,10 @@ use Illuminate\Support\Facades\Route;
 //     return view('home');
 // });
 Route::view('/' , 'home');
-Route::view('prodect','prodect');
+Route::view('cold','cold-drinks')->name('cold');
+Route::view('hot','hot-drinks');
+Route::view('sweets','sweets');
+Route::view('breakfast','breakfast');
+Route::view('b','d');
+
 
