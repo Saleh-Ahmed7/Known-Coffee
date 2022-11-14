@@ -129,6 +129,7 @@
              <p class="p4">الحلى </p>
 
 
+        @include("footer")
 
         </body>
 </html>
