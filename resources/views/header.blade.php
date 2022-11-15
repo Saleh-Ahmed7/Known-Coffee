@@ -59,7 +59,7 @@
 							<span class="navbar-toggler-icon"></span>
 						</button>
 
-						<div class="collapse navbar-collapse" id="navbarSupportedContent">
+						<div class="collapse navbar-collapse" id="navbarSupportedContent" style="margin-left: -9rem;">
 							<ul class="navbar-nav ml-auto py-4 py-md-0"  style="
                                 margin-left: 79rem;>
 									<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">

@@ -39,8 +39,9 @@
                 width: 45%;
             }
             .h1{
-                margin-left: 70rem;
-                font-size: 33px;
+                font-size: 29px;
+                margin-left: 48rem;
+                margin-top: 3rem;
             }
             .img3{
                 margin-top: inherit;
@@ -53,18 +54,18 @@
                 font-size: 58px;
             }
             .img4{
-                margin-top: -48rem;
-                margin-left: 72rem;
+                margin-top: -39rem;
+                margin-left: 57rem;
                 width: 40%;
                 margin-bottom: 8rem;
             }
             .p2{
-                margin-left: 85rem;
-                font-size: 58px;
+                margin-left: 61rem;
+                font-size: 56px;
                 margin-top: -11rem;
             }
             .img5{
-                margin-top: -11rem;
+                margin-top: -6rem;
                 width: 95%;
                 margin-left: -1rem;
             }
@@ -80,12 +81,12 @@
             }
             .img7{
                 width: 32%;
-                margin-left: 73rem;
+                margin-left: 58rem;
                 margin-top: -40rem;
             }
             .p4{
-                margin-left: 87rem;
-                margin-top: -3rem;
+                margin-left: 69rem;
+                margin-top: -7rem;
                 font-size: 46px;
             }
         </style>
