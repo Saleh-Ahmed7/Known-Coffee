@@ -11,6 +11,10 @@
             body {
                 background-image: url("backgruond.png");
             }
+            .h1{
+            font-size: 50px;
+            margin-left: 50rem;
+        }
 
 
         </style>
@@ -18,6 +22,7 @@
     </head>
 
         <body>
+            <h1 class="h1">الافـطـار </h1>
 
         </body>
 </html>

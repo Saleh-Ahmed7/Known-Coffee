@@ -12,12 +12,18 @@
                 background-image: url("backgruond.png");
             }
 
+            .h1{
+            font-size: 50px;
+            margin-left: 50rem;
+        }
+
 
         </style>
 
     </head>
 
         <body>
+            <h1 class="h1">الـحـلـى </h1>
 
         </body>
 </html>
